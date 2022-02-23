@@ -26,7 +26,7 @@ const albums = [
     id: 4,
     name: "Scary Music for Dogs",
     image:
-      "https://animalsmagnets.ergoiamtoo.com/image/cache/data/magnets/boxer-dog-afraid-of-vacuum-cleaner-magnet-700x700.jpg",
+    "https://static.boredpanda.com/blog/wp-content/uploads/2019/07/scary-dog-muzzle-werewolf-28-5d2c46b2d0019__700.jpg",
     inLibrary: true,
     genre: "Dogs",
   },
